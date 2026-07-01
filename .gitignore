@@ -1,0 +1,7 @@
+venv/
+attendance.db
+dataset/
+encodings/
+__pycache__/
+*.pyc
+reports/
